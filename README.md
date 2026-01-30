@@ -40,7 +40,7 @@ The objective of this project is to analyze Super Store sales data and create a 
 
 ## Dashboard Screenshot
 
-![SuperStore Sales Dashboard](SuperStore Sales Dashboard.png)
+![SuperStore Sales Dashboard](SuperStore_Sales_Dashboard.png)
 
 ## Key Insights
 
