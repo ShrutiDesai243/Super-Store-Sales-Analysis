@@ -5,7 +5,8 @@ The objective of this project is to analyze Super Store sales data and create a 
 
 ## Dataset Used
 
-Super Store Sales Dataset (sourced from Kaggle)
+[Super Store Sales Dataset]([https://github.com/username/repo-name/blob/main/Dataset/SuperStore.csv](https://github.com/ShrutiDesai243/Super-Store-Sales-Analysis/blob/main/SuperStore_Sales_Dataset.csv))
+
 
 ## Tools Used
 
