@@ -3,21 +3,21 @@
 
 The objective of this project is to analyze Super Store sales data and create a visual dashboard to understand sales performance, profit trends, customer segments, and regional contributions, helping stakeholders make data-driven business decisions.
 
-Dataset Used
+## Dataset Used
 
 Super Store Sales Dataset (sourced from Kaggle)
 
-Tools Used
+## Tools Used
 
-Excel – Initial data inspection and formatting
+**Excel** – Initial data inspection and formatting
 
-SQL – Data filtering and aggregation
+**SQL** – Data filtering and aggregation
 
-Power BI – Data transformation, analysis, and dashboard creation
+**Power BI** – Data transformation, analysis, and dashboard creation
 
-Key Business Questions (KPIs)
+## Key Business Questions (KPIs)
 
-What are the total sales, profit, and number of orders?
+-What are the total sales, profit, and number of orders?
 
 Which regions and customer segments contribute the most to sales?
 
